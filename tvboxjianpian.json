@@ -1,8 +1,8 @@
 {
-  "wallpaper": "https://*/tvbox/ls.png",
-  "logo": "https://*/tvbox/fsx.png",
-  "spider": "https://*/tvbox/*.jpg;md5;*",
-  "warningText": "资源来自网上，禁止传播贩卖！【习水TV】",
+  "wallpaper": "https://14138.kstore.space/tvbox/ls.png",
+  "logo": "https://14138.kstore.space/tvbox/fsx.png",
+  "spider": "https://14138.kstore.space/tvbox/4fa94624bbbc51869b4f276c3c85b3e0.jpg;md5;e63c88a7169d1cfd163a87039f163e1b",
+  "warningText": "仅限自用，禁止传播贩卖！【习水TV】",
   "lives": [
     {
       "name": "Kimentanm",
@@ -14,14 +14,14 @@
   "sites": [
     {
       "key": "豆瓣1",
-      "name": "📢习水资源自用，禁止传播贩卖！A",
+      "name": "📢仅限自用，禁止传播贩卖！A",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "豆瓣2",
-      "name": "📢习水资源自用，禁止传播贩卖"B,
+      "name": "📢仅限自用，禁止传播贩卖！B",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
